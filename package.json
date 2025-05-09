@@ -9,7 +9,7 @@
     "restart": "pm2 restart ASITHA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
+    "@whiskeysockets/baileys": "1.5.0",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
