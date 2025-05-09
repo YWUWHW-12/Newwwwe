@@ -4,7 +4,7 @@
   "description": "Simple feature add whatsapp bot using @darkcriminal/baileys",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name KAVI-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KAVI-MD",
     "dev": "nodemon index.js"
   },
   "author": "LOD TEM",
